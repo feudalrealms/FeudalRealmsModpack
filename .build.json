@@ -6,6 +6,7 @@
 	"includes": [
 		"config/defaultoptions",
 		"config/bettertitlescreen-client.toml",
+		"config/silents-mechanisms-common.toml",
 		"defaultconfigs",
 		"kubejs/data"
 	]
