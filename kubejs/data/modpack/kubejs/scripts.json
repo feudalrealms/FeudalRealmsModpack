@@ -1,5 +1,7 @@
 {
 	"scripts": [
-		{"file": "blueprint.js"}
+		{"file": "jetpack.js"},
+		{"file": "blueprint.js"},
+		{"file": "angelring.js"}
 	]
 }

@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-12T16:17:10.7397438Z",
+  "lastPlayed": "2020-04-12T20:04:59.3578524Z",
   "manifest": {
     "minecraft": {
       "version": "1.15.2",
@@ -630,6 +630,21 @@
       "queryTimestamp": "2020-04-12T18:24:04.4334012Z",
       "fileCount": 1,
       "fileSize": 907329
+    },
+    {
+      "folderName": "angelring-1.15.2-1.2.0.jar",
+      "fingerprint": 3946421855,
+      "fileDateHash": 2070484982,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3946421855
+      ],
+      "status": 1,
+      "timestamp": "2020-04-12T19:32:50.4296762Z",
+      "lastWriteTimeUtc": "2020-04-12T19:04:53.7937304Z",
+      "queryTimestamp": "2020-04-12T19:32:50.9986794Z",
+      "fileCount": 1,
+      "fileSize": 19175
     },
     {
       "folderName": "Powah-1.15.2-1.1.12.jar",
@@ -2178,7 +2193,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-04-12T19:03:06.3399633Z",
+  "lastPreviousMatchUpdate": "2020-04-12T19:36:28.7328471Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.15.2",
@@ -7098,10 +7113,72 @@
     {
       "addonID": 333396,
       "gameInstanceID": "41320b2a-7a61-4685-b45f-b28649e44da1",
-      "installedFile": null,
-      "dateInstalled": "2020-04-12T18:44:34.4184258Z",
-      "dateUpdated": "2020-04-12T18:44:34.5324273Z",
-      "dateLastUpdateAttempted": "2020-04-12T18:44:34.5324273Z",
+      "installedFile": {
+        "id": 2881014,
+        "displayName": "Angel Ring v1.2.0 [1.15.2]",
+        "fileName": "angelring-1.15.2-1.2.0.jar",
+        "fileDate": "2020-02-13T18:37:18.78Z",
+        "fileLength": 19175,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2881/14/angelring-1.15.2-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3243790758,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2028835327,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3862194371,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3807287112,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 30905169,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3946421855,
+        "gameVersion": [
+          "Forge",
+          "1.15.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "angelring-1.15.2-1.2.0.jar"
+      },
+      "dateInstalled": "2020-04-12T19:04:53.9367022Z",
+      "dateUpdated": "2020-04-12T19:04:54.0387334Z",
+      "dateLastUpdateAttempted": "2020-04-12T19:04:54.0387334Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -10408,7 +10485,7 @@
       "dateInstalled": "2020-04-12T16:06:51.7041351Z",
       "dateUpdated": "2020-04-12T16:06:51.8321108Z",
       "dateLastUpdateAttempted": "2020-04-12T16:06:51.8321108Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
