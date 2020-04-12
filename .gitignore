@@ -1,0 +1,12 @@
+**/*.*
+!instanceSync.jar
+!setup.bat
+!setup.sh
+!minecraftinstance.json
+!.gitignore
+!.build.json
+!Readme.md
+!defaultconfigs/**/*.*
+!config/defaultoptions/*
+!config/bettertitlescreen-client.toml
+!kubejs/data/modpack/kubejs/*

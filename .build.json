@@ -1,0 +1,12 @@
+{
+	"packAuthor": "FeudalRealms",
+	"minecraftVersion": "1.15.2",
+	"modLoader": "forge",
+	"modLoaderVersion": "31.1.43",
+	"includes": [
+		"config/defaultoptions",
+		"config/bettertitlescreen-client.toml",
+		"defaultconfigs",
+		"kubejs/data"
+	]
+}
