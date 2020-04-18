@@ -7,6 +7,5 @@
 !.build.json
 !Readme.md
 !defaultconfigs/**/*.*
-!config/defaultoptions/*
-!config/bettertitlescreen-client.toml
+!config/**/*.*
 !kubejs/data/modpack/kubejs/*
