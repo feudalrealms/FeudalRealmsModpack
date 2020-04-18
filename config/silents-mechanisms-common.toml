@@ -55,7 +55,7 @@
 			#Minimum Y-coordinate (base height) of veins
 			minHeight = 20
 			#Number of veins per chunk
-			veinCount = 8
+			veinCount = 0
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 80
 			#Size of veins
@@ -75,7 +75,7 @@
 			#Minimum Y-coordinate (base height) of veins
 			minHeight = 40
 			#Number of veins per chunk
-			veinCount = 8
+			veinCount = 0
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 90
 			#Size of veins
